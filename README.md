@@ -1,6 +1,6 @@
 # ⚡ PageAudit
 
-**A free, browser-based SEO and content audit tool for your top website pages.**
+**A browser-based SEO and content audit tool for your top website pages.**
 
 Upload your GA4 traffic data, paste page source HTML, and get a prioritised report of SEO issues, content gaps, and technical fixes — with a downloadable PDF.
 
@@ -209,4 +209,4 @@ Upload `index.html` to any static hosting. No build step, no dependencies, no co
 
 ## License
 
-Private — this application is for private use only.
+Private — this application is for private use only, free to use, can not copy or duplicate.
