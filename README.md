@@ -209,4 +209,4 @@ Upload `index.html` to any static hosting. No build step, no dependencies, no co
 
 ## License
 
-MIT — free to use, modify, and deploy.
+Private — this application is for private use only.
